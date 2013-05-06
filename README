@@ -1,0 +1,8 @@
+
+Start/stop jetty:
+  rake jetty:start
+  rake jetty:stop
+
+Jetty logs:
+  tail -f jetty/jettywrapper.log
+
